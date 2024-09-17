@@ -9,17 +9,20 @@
 
   body {
     background-color: #e2e2e2;
-  }
 
+  }
+    
   
     /* HEADER */
 
     .logo-image {
         height: 60px;
+        vertical-align: middle;
     }
 
     .logo-title {
         display: inline;
+        vertical-align: middle;
     }
 
     .page-header {
@@ -94,17 +97,23 @@
     
     }
 
+
     /* LIST */
+
+    .list-container {
+        line-height: 1.6;
+    }
 
     .task-list {
         list-style-type: none;
+        
     }
 
     .list-title {
         font-weight: bold;
         font-size: large;
         padding-top: 10px;
-        padding-bottom: 10px;
+        padding-bottom: 5px;
     }
 
     .check-mark {
