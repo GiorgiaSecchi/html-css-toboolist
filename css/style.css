@@ -53,8 +53,27 @@
         background-color: white;
     }
 
-    .button-item {
+    .button-cointainer {
+        padding-top: 10px;
+        padding-bottom: 30px;
+        border-bottom: solid 2px  #e2e2e2; 
+        width: 100%;
+    }
 
+    .btn {
+        padding: 8px 10px;
+        border-radius: 20px;
+        border: none;
+    }
+
+    .btn-task {
+        background-color:aqua;
+        color: white;
+    }
+
+    .btn-section {
+        border-color: gray;
+        color: gray;
     }
 
     /* LIST */
