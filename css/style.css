@@ -7,8 +7,16 @@
   }
 
   
-  /* HEADER */
+/* HEADER */
 
-  .logo-image {
-    height: 60px;
-  }
+.logo-image {
+height: 60px;
+}
+
+.logo-title {
+    display: inline;
+}
+
+.page-header {
+
+}
