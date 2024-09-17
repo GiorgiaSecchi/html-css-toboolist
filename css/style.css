@@ -14,10 +14,6 @@
   
     /* HEADER */
 
-    header {
-    
-    }
-
     .logo-image {
         height: 60px;
     }
@@ -32,6 +28,8 @@
         padding-bottom: 15px;
 
         background-color: white;
+
+        vertical-align: middle;
     }
 
     /* MAIN */
@@ -56,7 +54,7 @@
     }
 
     .button-item {
-        
+
     }
 
     /* LIST */
@@ -67,7 +65,9 @@
 
     .list-title {
         font-weight: bold;
-        font-size: medium;
+        font-size: large;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 
     .check-mark {
@@ -93,6 +93,4 @@
         font-size: small;
         color: white;
         padding: 5px;
-
-
     }
