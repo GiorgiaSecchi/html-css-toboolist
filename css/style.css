@@ -88,6 +88,7 @@
         height: 10px;
         border-radius: 20px;
         background-color: deepskyblue;
+        box-shadow: 2px 2px #a2a2a2;
 
         font-size: small;
         color: white;
