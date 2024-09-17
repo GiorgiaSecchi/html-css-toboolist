@@ -57,23 +57,31 @@
         padding-top: 10px;
         padding-bottom: 30px;
         border-bottom: solid 2px  #e2e2e2; 
-        width: 100%;
+        width: 100%;;
     }
 
     .btn {
         padding: 8px 10px;
         border-radius: 20px;
         border: none;
+        box-shadow: 2px 2px #a2a2a2;
+
+        font-size: small;
     }
 
     .btn-task {
-        background-color:aqua;
+        background-color: dodgerblue;
         color: white;
     }
 
     .btn-section {
         border-color: gray;
         color: gray;
+        border: 1px solid currentColor;
+        background: transparent;
+        border-radius: 20%;
+        border-radius: 20px;
+    
     }
 
     /* LIST */
@@ -106,7 +114,7 @@
         width: 30px;
         height: 10px;
         border-radius: 20px;
-        background-color: deepskyblue;
+        background-color: dodgerblue;
         box-shadow: 2px 2px #a2a2a2;
 
         font-size: small;
