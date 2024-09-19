@@ -121,7 +121,28 @@
         padding-bottom: 3px;
     }
 
-    .check-mark {
+    .mark {
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        border: 1px solid currentColor;
+        text-align: center;
+        vertical-align: middle;
+        line-height: 15px;
+
+        font-size: 0.6rem;
+    }
+
+    .mark.mark-check {
+        color: green;
+    }
+
+    .mark.mark-ballot {
+        color: red;
+    }
+
+    /* .check-mark {
         display: inline-block;
         width: 15px;
         height: 15px;
@@ -147,7 +168,7 @@
         line-height: 15px;
 
         font-size: 0.6rem;
-    }
+    } */
 
 
 
