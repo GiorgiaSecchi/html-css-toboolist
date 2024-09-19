@@ -24,7 +24,7 @@
     .logo-title {
         display: inline;
         vertical-align: middle;
-        font-size: 55px;
+        font-size: 50px;
     }
 
     .page-header {
@@ -111,6 +111,7 @@
         list-style-type: none;
         margin-top: 20px;
         margin-bottom: 30px;
+        line-height: 30px;
         
     }
 
@@ -129,6 +130,7 @@
         color: green;
         text-align: center;
         vertical-align: middle;
+        line-height: 15px;
 
         font-size: 0.6rem;
     }
@@ -142,6 +144,7 @@
         color: red;
         text-align: center;
         vertical-align: middle;
+        line-height: 15px;
 
         font-size: 0.6rem;
     }
