@@ -87,6 +87,7 @@
     .btn-task {
         background-color: dodgerblue;
         color: white;
+        border: 2px solid dodgerblue;
     }
 
     .btn-section {
