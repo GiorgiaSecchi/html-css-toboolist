@@ -82,6 +82,8 @@
         box-shadow: 2px 2px #a2a2a2;
 
         font-size: small;
+
+        cursor: pointer;
     }
 
     .btn-task {
