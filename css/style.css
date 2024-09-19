@@ -190,7 +190,23 @@
     }
 
     .label.goals {
+        background-color: mediumslateblue;
+    }
+
+    .label.recruiting {
+        background-color:lightseagreen;
+    }
+
+    .label.mobile {
+        background-color:lightsalmon;
+    }
+
+    .label.website {
         background-color: violet;
+    }
+
+    .label.sales {
+        background-color:yellowgreen;
     }
 
 
